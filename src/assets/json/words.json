@@ -1,0 +1,578 @@
+[
+  {
+    "id": 96,
+    "ge": "Zerbrechen",
+    "vn": "đập vỡ, bẻ gãy",
+    "so": ""
+  },
+  {
+    "id": 95,
+    "ge": "Zerschneiden",
+    "vn": "cắt rời",
+    "so": ""
+  },
+  {
+    "id": 94,
+    "ge": "ziehen",
+    "vn": "kéo",
+    "so": ""
+  },
+  {
+    "id": 93,
+    "ge": "wollen",
+    "vn": "muốn",
+    "so": ""
+  },
+  {
+    "id": 92,
+    "ge": "wohnen",
+    "vn": "ở, sống",
+    "so": ""
+  },
+  {
+    "id": 91,
+    "ge": "wissen",
+    "vn": "biết",
+    "so": ""
+  },
+  {
+    "id": 90,
+    "ge": "werfen",
+    "vn": "ném",
+    "so": ""
+  },
+  {
+    "id": 89,
+    "ge": "werden",
+    "vn": "trở thành",
+    "so": ""
+  },
+  {
+    "id": 88,
+    "ge": "waschen",
+    "vn": "rửa",
+    "so": ""
+  },
+  {
+    "id": 87,
+    "ge": "warten",
+    "vn": "chờ",
+    "so": ""
+  },
+  {
+    "id": 86,
+    "ge": "versuchen",
+    "vn": "thử",
+    "so": ""
+  },
+  {
+    "id": 85,
+    "ge": "verlieren",
+    "vn": "mất",
+    "so": ""
+  },
+  {
+    "id": 84,
+    "ge": "verkaufen",
+    "vn": "bán",
+    "so": ""
+  },
+  {
+    "id": 83,
+    "ge": "vergessen",
+    "vn": "quên",
+    "so": ""
+  },
+  {
+    "id": 82,
+    "ge": "unterrichten",
+    "vn": "dạy, giảng dạy",
+    "so": ""
+  },
+  {
+    "id": 81,
+    "ge": "unterscheiden",
+    "vn": "phân biệt",
+    "so": ""
+  },
+  {
+    "id": 80,
+    "ge": "übernehmen",
+    "vn": "tiếp nhận",
+    "so": ""
+  },
+  {
+    "id": 79,
+    "ge": "üben",
+    "vn": "tập luyện",
+    "so": ""
+  },
+  {
+    "id": 78,
+    "ge": "tun",
+    "vn": "làm",
+    "so": ""
+  },
+  {
+    "id": 77,
+    "ge": "trinken",
+    "vn": "uống",
+    "so": ""
+  },
+  {
+    "id": 76,
+    "ge": "treffen",
+    "vn": "gặp",
+    "so": ""
+  },
+  {
+    "id": 75,
+    "ge": "tragen",
+    "vn": "mang",
+    "so": ""
+  },
+  {
+    "id": 74,
+    "ge": "töten",
+    "vn": "giết",
+    "so": ""
+  },
+  {
+    "id": 73,
+    "ge": "studieren",
+    "vn": "học",
+    "so": ""
+  },
+  {
+    "id": 72,
+    "ge": "sterben",
+    "vn": "chết",
+    "so": ""
+  },
+  {
+    "id": 71,
+    "ge": "stellen",
+    "vn": "đặt",
+    "so": ""
+  },
+  {
+    "id": 70,
+    "ge": "stehen",
+    "vn": "đứng",
+    "so": ""
+  },
+  {
+    "id": 69,
+    "ge": "sprechen",
+    "vn": "nói",
+    "so": ""
+  },
+  {
+    "id": 68,
+    "ge": "spielen",
+    "vn": "chơi",
+    "so": ""
+  },
+  {
+    "id": 67,
+    "ge": "sollen",
+    "vn": "nên",
+    "so": ""
+  },
+  {
+    "id": 66,
+    "ge": "sitzen",
+    "vn": "ngồi",
+    "so": ""
+  },
+  {
+    "id": 65,
+    "ge": "singen",
+    "vn": "hát",
+    "so": ""
+  },
+  {
+    "id": 64,
+    "ge": "sein",
+    "vn": "là",
+    "so": ""
+  },
+  {
+    "id": 63,
+    "ge": "sehen",
+    "vn": "thấy",
+    "so": ""
+  },
+  {
+    "id": 62,
+    "ge": "schreiben",
+    "vn": "viết",
+    "so": ""
+  },
+  {
+    "id": 61,
+    "ge": "schreien",
+    "vn": "la hét",
+    "so": ""
+  },
+  {
+    "id": 60,
+    "ge": "schneiden",
+    "vn": "cắt",
+    "so": ""
+  },
+  {
+    "id": 59,
+    "ge": "schlagen",
+    "vn": "đánh",
+    "so": ""
+  },
+  {
+    "id": 58,
+    "ge": "schlafen",
+    "vn": "ngủ",
+    "so": ""
+  },
+  {
+    "id": 57,
+    "ge": "schaffen",
+    "vn": "đạt được",
+    "so": ""
+  },
+  {
+    "id": 56,
+    "ge": "sagen",
+    "vn": "nói",
+    "so": ""
+  },
+  {
+    "id": 55,
+    "ge": "rufen",
+    "vn": "gọi",
+    "so": ""
+  },
+  {
+    "id": 54,
+    "ge": "rennen",
+    "vn": "chạy",
+    "so": ""
+  },
+  {
+    "id": 53,
+    "ge": "reden",
+    "vn": "nói",
+    "so": ""
+  },
+  {
+    "id": 52,
+    "ge": "rechnen",
+    "vn": "tính toán",
+    "so": ""
+  },
+  {
+    "id": 51,
+    "ge": "nennen",
+    "vn": "trích dẫn",
+    "so": ""
+  },
+  {
+    "id": 50,
+    "ge": "nehmen",
+    "vn": "nhận, cầm",
+    "so": ""
+  },
+  {
+    "id": 49,
+    "ge": "müssen",
+    "vn": "phải (làm gì đó)",
+    "so": ""
+  },
+  {
+    "id": 48,
+    "ge": "mögen",
+    "vn": "muốn",
+    "so": ""
+  },
+  {
+    "id": 47,
+    "ge": "merken",
+    "vn": "nhận thức, biết",
+    "so": ""
+  },
+  {
+    "id": 46,
+    "ge": "machen",
+    "vn": "làm, tạo ra",
+    "so": ""
+  },
+  {
+    "id": 45,
+    "ge": "lügen",
+    "vn": "nói dối",
+    "so": ""
+  },
+  {
+    "id": 44,
+    "ge": "liegen",
+    "vn": "nằm",
+    "so": ""
+  },
+  {
+    "id": 43,
+    "ge": "lesen",
+    "vn": "đọc",
+    "so": ""
+  },
+  {
+    "id": 42,
+    "ge": "legen",
+    "vn": "đặt xuống",
+    "so": ""
+  },
+  {
+    "id": 41,
+    "ge": "leben",
+    "vn": "sống",
+    "so": ""
+  },
+  {
+    "id": 40,
+    "ge": "laufen",
+    "vn": "chạy",
+    "so": ""
+  },
+  {
+    "id": 39,
+    "ge": "lassen",
+    "vn": "rời, để lại, cho phép",
+    "so": ""
+  },
+  {
+    "id": 38,
+    "ge": "lächeln",
+    "vn": "cười",
+    "so": ""
+  },
+  {
+    "id": 37,
+    "ge": "können",
+    "vn": "có thể",
+    "so": ""
+  },
+  {
+    "id": 36,
+    "ge": "kommen",
+    "vn": "đến",
+    "so": ""
+  },
+  {
+    "id": 35,
+    "ge": "kennen",
+    "vn": "biết",
+    "so": ""
+  },
+  {
+    "id": 34,
+    "ge": "kaufen",
+    "vn": "mua",
+    "so": ""
+  },
+  {
+    "id": 33,
+    "ge": "heißen",
+    "vn": "được gọi là…",
+    "so": ""
+  },
+  {
+    "id": 32,
+    "ge": "hören",
+    "vn": "nghe",
+    "so": ""
+  },
+  {
+    "id": 31,
+    "ge": "holen",
+    "vn": "lấy",
+    "so": ""
+  },
+  {
+    "id": 30,
+    "ge": "helfen",
+    "vn": "giúp đỡ",
+    "so": ""
+  },
+  {
+    "id": 29,
+    "ge": "halten",
+    "vn": "giữ",
+    "so": ""
+  },
+  {
+    "id": 28,
+    "ge": "haben",
+    "vn": "có",
+    "so": ""
+  },
+  {
+    "id": 27,
+    "ge": "glauben",
+    "vn": "tin",
+    "so": ""
+  },
+  {
+    "id": 26,
+    "ge": "gewinnen",
+    "vn": "thắng",
+    "so": ""
+  },
+  {
+    "id": 25,
+    "ge": "gehören",
+    "vn": "thuộc về",
+    "so": ""
+  },
+  {
+    "id": 24,
+    "ge": "gehen",
+    "vn": "đi",
+    "so": ""
+  },
+  {
+    "id": 23,
+    "ge": "geben",
+    "vn": "cho",
+    "so": ""
+  },
+  {
+    "id": 22,
+    "ge": "fühlen",
+    "vn": "cảm nhận",
+    "so": ""
+  },
+  {
+    "id": 21,
+    "ge": "fragen",
+    "vn": "hỏi",
+    "so": ""
+  },
+  {
+    "id": 20,
+    "ge": "fliegen",
+    "vn": "bay",
+    "so": ""
+  },
+  {
+    "id": 19,
+    "ge": "finden",
+    "vn": "tìm",
+    "so": ""
+  },
+  {
+    "id": 18,
+    "ge": "fassen",
+    "vn": "nhận thức",
+    "so": ""
+  },
+  {
+    "id": 17,
+    "ge": "fangen",
+    "vn": "bắt",
+    "so": ""
+  },
+  {
+    "id": 16,
+    "ge": "fahren",
+    "vn": "lái",
+    "so": ""
+  },
+  {
+    "id": 15,
+    "ge": "essen",
+    "vn": "ăn",
+    "so": ""
+  },
+  {
+    "id": 14,
+    "ge": "erklären",
+    "vn": "giải thích",
+    "so": ""
+  },
+  {
+    "id": 13,
+    "ge": "empfehlen",
+    "vn": "khuyên",
+    "so": ""
+  },
+  {
+    "id": 12,
+    "ge": "dürfen",
+    "vn": "được cho phép",
+    "so": ""
+  },
+  {
+    "id": 11,
+    "ge": "denken",
+    "vn": "suy nghĩ",
+    "so": ""
+  },
+  {
+    "id": 10,
+    "ge": "bringen",
+    "vn": "mang",
+    "so": ""
+  },
+  {
+    "id": 9,
+    "ge": "brauchen",
+    "vn": "cần",
+    "so": ""
+  },
+  {
+    "id": 8,
+    "ge": "bleiben",
+    "vn": "ở lại",
+    "so": ""
+  },
+  {
+    "id": 7,
+    "ge": "bezahlen",
+    "vn": "trả tiền",
+    "so": ""
+  },
+  {
+    "id": 6,
+    "ge": "bestellen",
+    "vn": "đặt hàng",
+    "so": ""
+  },
+  {
+    "id": 5,
+    "ge": "bekommen",
+    "vn": "nhận lấy",
+    "so": ""
+  },
+  {
+    "id": 4,
+    "ge": "arbeiten",
+    "vn": "làm việc",
+    "so": ""
+  },
+  {
+    "id": 3,
+    "ge": "anfangen",
+    "vn": "bắt đầu",
+    "so": ""
+  },
+  {
+    "id": 2,
+    "ge": "ändern",
+    "vn": "thay đổi",
+    "so": ""
+  },
+  {
+    "id": 1,
+    "ge": "abheben",
+    "vn": "nâng lên",
+    "so": ""
+  }
+]
