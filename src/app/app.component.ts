@@ -17,9 +17,9 @@ export class AppComponent {
   show = true;
   see = false;
   no = 1;
-  min = 1;
+  min = 31;
   // max = 96;
-  max = 36;
+  max = 41;
   vnWord = '';
   geWord = '';
   words: Word[] = wordList;
