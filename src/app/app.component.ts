@@ -25,7 +25,17 @@ export class AppComponent {
   words: Word[] = wordList;
   count = 0;
 
+  // speak
+  selectedVoice: SpeechSynthesisVoice | null;
+  voices: SpeechSynthesisVoice[];
+  selectedRate: number = 1;
+  canSpeak: boolean = false;
+
   constructor() {
+    this.selectedVoice = null;
+    this.voices = [];
+    this.selectedRate = 1;
+
     this.words = wordList;
     let id = this.getRandomArbitrary(this.min, this.max)
     let word = this.words.find((obj) => {
@@ -77,5 +87,20 @@ export class AppComponent {
     selBox.select();
     document.execCommand('copy');
     document.body.removeChild(selBox);
+  }
+
+  speakMessage() {
+    var utterance = new SpeechSynthesisUtterance(this.geWord);
+    utterance.voice = this.selectedVoice;
+    utterance.rate = this.selectedRate;
+    speechSynthesis.speak(utterance);
+  }
+
+  checkAbleSpeak() {
+    this.voices = window.speechSynthesis.getVoices();
+    if (this.voices.length > 0) {
+      this.selectedVoice = (this.voices[137] || null);
+      this.canSpeak = true;
+    }
   }
 }
