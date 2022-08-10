@@ -97,10 +97,14 @@ export class AppComponent {
   }
 
   checkAbleSpeak() {
-    this.voices = window.speechSynthesis.getVoices();
+    this.voices = window.speechSynthesis.getVoices().filter(voice => voice.lang == "de-DE");
     if (this.voices.length > 0) {
-      this.selectedVoice = this.voices.filter(voice => voice.lang == "de-DE")[0];
+      this.selectedVoice = this.voices[0];
       this.canSpeak = true;
     }
+  }
+
+  selectVoice(voice: SpeechSynthesisVoice) {
+    this.selectedVoice = voice;
   }
 }
