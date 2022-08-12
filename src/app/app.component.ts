@@ -17,9 +17,10 @@ export class AppComponent {
   show = true;
   see = false;
   no = 1;
-  min = 97;
+  min = 1;
   // max = 96;
-  max = 51;
+  max = 97;
+  idWord = 0;
   vnWord = '';
   geWord = '';
   words: Word[] = wordList;
@@ -42,6 +43,7 @@ export class AppComponent {
       return obj.id === id;
     });
     if (word) {
+      this.idWord = word.id;
       this.vnWord = word.vn;
       this.geWord = word.ge;
     }
@@ -66,6 +68,7 @@ export class AppComponent {
       return obj.id === id;
     });
     if (word) {
+      this.idWord = word.id;
       this.vnWord = word.vn;
       this.geWord = word.ge;
     }
