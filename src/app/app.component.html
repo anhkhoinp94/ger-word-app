@@ -91,17 +91,27 @@
       <div class="col-4">
         <div *ngFor="let voice of voices">
           <div class="row">
-            <button
-              class="btn btn-sm mt-1"
-              [ngClass]="
-                voice.name == selectedVoice?.name
-                  ? 'btn-primary'
-                  : 'btn-secondary'
+            <div
+              class="col-12"
+              style="
+                display: flex;
+                align-items: center;
+                justify-content: center;
               "
-              (click)="selectVoice(voice)"
             >
-              {{ voice.name | slice: 10:30 }}
-            </button>
+              <button
+                class="btn btn-sm mt-1"
+                style="min-width: 200px"
+                [ngClass]="
+                  voice.name == selectedVoice?.name
+                    ? 'btn-primary'
+                    : 'btn-secondary'
+                "
+                (click)="selectVoice(voice)"
+              >
+                {{ voice.name | slice: 10:30 }}
+              </button>
+            </div>
           </div>
         </div>
       </div>
